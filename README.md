@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ozyren
 - 👀 I’m interested in Web Development!
-- 🌱 I’m currently learning Javascript frameworks
+- 🌱 I’m currently learning Javascript frameworks and secure PHP-database communication
 - 📫 Reach me via me@ozyren.dev
